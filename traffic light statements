@@ -1,0 +1,12 @@
+
+let colour="YELLOW";
+
+if (colour === "RED"){
+    console.log("STOP");
+}
+if  (colour === "GREEN"){
+    console.log("GO ONN");
+}
+if (colour === "YELLOW"){
+    console.log("sloww down");
+}
